@@ -1,4 +1,4 @@
-# Seminarksa Naloga Operacijski Sistemi
+# Seminarska Naloga Operacijski Sistemi
 ## Vzporedno pakiranje tekstovnih datotek
 Naloga je ustvariti 2 C programa, zapni in odpni, ki bosta vzela kot argumente imena datotek, jih prebrala in
 bodisi zapakirala v krajšo skrčeno obliko ali pa odpakirala v originalno obliko.
